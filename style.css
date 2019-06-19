@@ -10,7 +10,9 @@
     border-radius: 10px;
     margin-bottom: 2%;
   }
-
+  a {
+    text-decoration: none;
+   }
   .title {
     color: white;
     font-size: 50px;
@@ -26,10 +28,16 @@
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
+    font-size: 30px;
+font-style: bold;
   }
   .label {
-    width: 35%;
-    font-size: 15px;
+ 
+    font-size: 40px;
+    font-style: bold;
+  }
+  li{
+    font-size: 30px;
   }
 
   h2 {
@@ -79,7 +87,7 @@
     margin-bottom: 5%;
   }
   footer {
-    margin-left: 35%;
+    margin-left: 39%;
   }
   .div {
     border: solid black 2px;
@@ -100,7 +108,7 @@
     color: black;
   }
   i {
-    margin: 1%;
+    margin: 3%;
   }
   *,
   *:after,
