@@ -6,7 +6,7 @@
 
 in this project , we are creating a simple one page to serve an introducation for our developing team . the idea is to create an introductry website that introduces our work to potential clients . 
 
-## Sections description 
+## Sections  
 our website will be a single html page in 3 different sections 
 who we are : an individual biographic description of each team 
 contact us : A contact form that allows questions to be sent and keep in touch from potential clients 
