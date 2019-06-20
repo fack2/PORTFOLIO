@@ -4,22 +4,24 @@
  
 ## Description
 
-in this project , we are creating a simple one page to serve an introducation for our developing team . the idea is to create an introductry website that introduces our work to potential clients . 
+In this project , we are creating a simple one page to serve an introducation for our developing team . the idea is to create an introductry website that introduces our work to potential clients . 
 
 ## Sections  
-our website will be a single html page in 3 different sections 
+
+Our website will be a single html page in 3 different sections 
 who we are : an individual biographic description of each team 
 contact us : A contact form that allows questions to be sent and keep in touch from potential clients 
 what we do :  Description of our work and skills 
 
 ## Work flow 
-we have divided  the work into 3 main aspects , the oversll html , ovrall css and the more specific coding of the contact form , each of us will start with one aspect 
+
+We have divided  the work into 3 main aspects , the oversll html , ovrall css and the more specific coding of the contact form , each of us will start with one aspect 
 
 
 ## Technologies in use 
  
-1- mobile first 
-2- accesssibility  
+1- Mobile first 
+2- Accesssibility  
 
 
 ## Initial Sketches 
