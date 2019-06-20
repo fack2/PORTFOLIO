@@ -1,179 +1,187 @@
 @media only screen and (min-width: 600px) {
   .topnav {
-    overflow: hidden;
-    background-color: #333;
-    position: fixed;
-    width: 91%;
-    top: 0;
-    margin-right: 4%;
-    margin-left: 3.5%;
-    border-radius: 10px;
-    margin-bottom: 2%;
+      overflow: hidden;
+      background-color: #333;
+      position: fixed;
+      width: 91%;
+      top: 0;
+      margin-right: 4%;
+      margin-left: 3.5%;
+      border-radius: 10px;
+      margin-bottom: 2%;
+  }
+  .li-contacus {
+      width: 30px;
   }
   a {
-    text-decoration: none;
+      padding-top: 10%;
+      text-decoration: underline;
+      margin-top: 9%;
+      font-size: 38px;
+      font-family: bold;
+      margin-left: 10%;
+      margin-right: 10%;
+      color: black;
+  }
+  .contact {
+      text-decoration: underline;
+      font-size: 38px;
+      font-family: bold;
+      margin-left: 35%;
+      margin-top: 8%;
+      display: inline;
+      margin-bottom: 5%;
+      color: black;
   }
   .title {
-    color: white;
-    font-size: 50px;
-    font-family: bold;
-    text-align: center;
+      color: white;
+      font-size: 50px;
+      font-family: bold;
+      text-align: center;
   }
   input {
-    width: 100%;
-    padding: 12px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-    margin-top: 6px;
-    margin-bottom: 16px;
-    resize: vertical;
-    font-size: 30px;
-    font-style: bold;
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      margin-top: 6px;
+      margin-bottom: 16px;
+      resize: vertical;
+      font-size: 30px;
+      font-style: bold;
   }
   .label {
-    font-size: 40px;
-    font-style: bold;
+      font-size: 40px;
+      font-style: bold;
   }
   li {
-    font-size: 30px;
+      font-size: 30px;
   }
-
   h2 {
-    text-align: center;
-    font-size: 30px;
-    font-style: bold;
+      text-align: center;
+      font-size: 30px;
+      font-style: bold;
   }
-
   .p {
-    text-align: center;
-    margin-top: 30px;
-    font-size: 20px;
-    font-style: bold;
+      text-align: center;
+      margin-top: 30px;
+      font-size: 20px;
+      font-style: bold;
   }
-  .myButton {
-    background: #ffc312;
-    color: black;
-    border: solid black 2px;
-    border-radius: 10px;
-    height: 150px;
-    width: 42%;
-    font-family: serif;
-    font-size: 40px;
-    font-weight: bold;
-    box-shadow: 0px 0px 15px #010012;
-    cursor: pointer;
-    margin-left: 6%;
-    margin-top: 5%;
-    display: inline;
-  }
-
-  .btncontact {
-    background: #ffc312;
-    color: black;
-    border: solid black 2px;
-    border-radius: 10px;
-    height: 150px;
-    width: 40%;
-    font-family: serif;
-    font-size: 50px;
-    font-weight: bold;
-    box-shadow: 0px 0px 15px #010012;
-    cursor: pointer;
-    margin-left: 30%;
-    margin-top: 8%;
-    display: inline;
-    margin-bottom: 5%;
+  .btn {
+      background: #ffc312;
+      color: black;
+      border: solid black 2px;
+      border-radius: 10px;
+      height: 150px;
+      width: 40%;
+      font-family: serif;
+      font-size: 50px;
+      font-weight: bold;
+      box-shadow: 0px 0px 15px #010012;
+      cursor: pointer;
+      margin-left: 30%;
+      margin-top: 8%;
+      display: inline;
+      margin-bottom: 5%;
   }
   footer {
-    margin-left: 39%;
+      margin-left: 39%;
   }
   .container {
-    border: solid black 2px;
-    border-radius: 10px;
-    box-shadow: 0px 0px 15px #010012;
-    margin: 4%;
-    padding-bottom: 2%;
-    padding: 3%;
-    margin-top: 14%;
+      border: solid black 2px;
+      border-radius: 10px;
+      box-shadow: 0px 0px 15px #010012;
+      margin: 4%;
+      padding-bottom: 2%;
+      padding: 3%;
+      margin-top: 6%;
   }
-
+  .container1 {
+      height: 470px;
+      border: solid black 2px;
+      border-radius: 10px;
+      box-shadow: 0px 0px 15px #010012;
+      margin-left: 4%;
+      margin-right: 4%;
+      background-image: url('1.jpg');
+      margin-top: 10%;
+      padding-top: 30%;
+      padding-left: 6%;
+      color: black;
+  }
   .title-section {
-    text-align: center;
-    margin-top: 60px;
-    font-size: 50px;
-    font-style: bold;
-    margin-top: 100px;
-    color: black;
+      text-align: center;
+      margin-top: 60px;
+      font-size: 50px;
+      font-style: bold;
+      margin-top: 100px;
+      color: black;
   }
   i {
-    margin: 3%;
+      margin: 3%;
   }
   *,
   *:after,
   *:before {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
   }
   body {
-    background: #f0f0f0;
+      background: #f0f0f0;
   }
   img {
-    max-width: 100%;
-    height: 100%;
+      max-width: 100%;
+      height: 100%;
   }
-
   .card-grid {
-    width: 100%;
+      width: 100%;
   }
   .card-grid:after {
-    content: "";
-    display: table;
-    clear: both;
-    grid-row-gap: 3%;
+      content: "";
+      display: table;
+      clear: both;
+      grid-row-gap: 3%;
   }
-
   .card-wrap {
-    float: left;
-    width: 100%;
-    padding: 5px;
-    border: solid black 2px;
+      float: left;
+      width: 100%;
+      padding: 5px;
+      border: solid black 2px;
   }
   @media (min-width: 500px) {
-    .card-wrap {
-      width: 50%;
-    }
+      .card-wrap {
+          width: 50%;
+      }
   }
   @media (min-width: 720px) {
-    .card-wrap {
-      width: 43%;
-      margin: 3%;
-    }
+      .card-wrap {
+          width: 43%;
+          margin: 3%;
+      }
   }
-
   .card {
-    background-color: white;
-    border-radius: 5px;
-    border: 1px solid #ccc;
-    border-bottom: 2px solid #ccc;
-    width: 100%;
+      background-color: white;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      border-bottom: 2px solid #ccc;
+      width: 100%;
   }
   .card > div {
-    padding: 0 1em;
+      padding: 0 1em;
   }
-
   .card-img {
-    max-height: 400px;
-    max-width: 100%;
-    box-sizing: border-box;
+      max-height: 400px;
+      max-width: 100%;
+      box-sizing: border-box;
   }
-
   .card-img1 {
-    max-height: 400px;
-    max-width: 100%;
-    box-sizing: border-box;
-    border-radius: 100%;
-    margin-left: 20%;
+      max-height: 400px;
+      max-width: 100%;
+      box-sizing: border-box;
+      border-radius: 100%;
+      margin-left: 20%;
   }
 }
