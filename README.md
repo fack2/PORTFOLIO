@@ -22,7 +22,7 @@ we have divided  the work into 3 main aspects , the oversll html , ovrall css an
 2- accesssibility  
 
 
-# Initial Sketches 
+## Initial Sketches 
 
 ![64861735_469946310480559_7049441032512995328_n](https://user-images.githubusercontent.com/46847635/59662909-961bf200-91b6-11e9-9ef3-7351f8d6c609.jpg)
 
