@@ -19,6 +19,7 @@ we have divided  the work into 3 main aspects , the oversll html , ovrall css an
 ## Technologies in use 
  
 1- mobile first 
+
 2- accesssibility  
 3- Adaptability
 
