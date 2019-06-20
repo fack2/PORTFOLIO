@@ -1,8 +1,8 @@
 
 
- ###Full Stack Developer Team portfolio 
+ ## ## Full Stack Developer Team portfolio 
  
-#Description
+## Description
 
 in this project , we are creating a simple one page to serve an introducation for our developing team . the idea is to create an introductry website that introduces our work to potential clients . 
 
