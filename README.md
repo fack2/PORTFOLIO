@@ -1,6 +1,6 @@
 
 
- # Full Stack Developer Team portfolio 
+ # Full Stack Developer Team Portfolio 
  
 ## Description
 
