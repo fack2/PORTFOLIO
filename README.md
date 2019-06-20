@@ -2,7 +2,7 @@
  Full Stack Developer Team portfolio 
  
 why ? 
-in this project , we are creating a simple one page to serve an introducation for our developing team . the idea is to creat an introductry website that introduces our work to potential clients . 
+in this project , we are creating a simple one page to serve an introducation for our developing team . the idea is to create an introductry website that introduces our work to potential clients . 
 
 what ?  
 our website will be a single html page in 3 different sections 
@@ -15,8 +15,7 @@ we have divided  the work into 3 main aspects , the oversll html , ovrall css an
 
 
 technologies in use 
-
-emailjs : allow contact with clients   
+ 
 mobile first 
 accesssibility  
 Adaptability
